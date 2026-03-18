@@ -51,3 +51,6 @@ Input	Output	Explanation
 Constraints
 
 0 <= n <= 999 (for 3-digit numbers)
+
+Author
+Sanjeev Sharma
